@@ -1,0 +1,90 @@
+{
+  "en": [
+    {
+      "title": "Broadcasting Messages to a Telegram Bot Using ESP32 and EEPROM",
+      "description": "In the ever-evolving era of IoT (Internet of Things), microprocessor technology like the ESP32 is becoming increasingly popular due to its multifunctional capabilities. One interesting application is connecting the ESP32 with a Telegram bot to send broadcast messages. This allows your IoT device to provide real-time notifications to Telegram, whether for sensor monitoring, alarms, or simply sharing information.",
+      "image": "/src/article/article-7.png",
+      "link": "https://medium.com/@mmumuhammadrefal44/broadcasting-messages-to-a-telegram-bot-using-esp32-and-eeprom-b2732ec507d8"
+    },
+    {
+      "title": "Guide for Design Inset Feed in Rectangular Microstrip Antennas Using Python and CST Studio Suite",
+      "description": "In microstrip antenna design, impedance mismatch often occurs even when the calculated antenna dimensions seem correct. This results in a reflection coefficient that does not match the initial design parameters. This issue can be resolved by adjusting the feeder to achieve optimal impedance matching.",
+      "image": "/src/article/article-6.png",
+      "link": "https://medium.com/p/8a997850d1c7"
+    },
+    {
+      "title": "Implementing the MBR Algorithm on KML Data to Determine the Minimum Area for Drone Mapping",
+      "description": "This coding challenge revolves around mapping. Mapping areas with drones involves flight paths that are straight, then turn, and continue straight again, resembling a zigzag pattern. As we know, drones have limited flight time due to battery constraints. Therefore, for mapping large areas, people need to find the most efficient way to optimize the drone’s mapping path.",
+      "image": "/src/article/article-5.png",
+      "link": "https://medium.com/@mmumuhammadrefal44/codingchallenge3-implementing-the-mbr-algorithm-on-kml-data-to-determine-the-minimum-area-for-55c2070be557"
+    },
+    {
+      "title": "Batch Download Music from YouTube via Bash Scripting with WSL: A Short Tutorial",
+      "description": "In this modern era, many people listen to music via streaming platforms, given that internet connections are now available almost everywhere. However, some people still prefer to download music from YouTube for a better experience, as it eliminates delays and saves data when there’s no Wi-Fi connection.",
+      "image": "/src/article/article-4.png",
+      "link": "https://medium.com/p/f2ee13b1792b"
+    },
+    {
+      "title": "How to use Lidar lite V3 in ESP32 : A short tutorial",
+      "description": "Recently I worked on a project using lidar sensor with ESP32. and we searched for the library but there was none. then we did a little search on the internet and found an issue about this on github. credit for github issue :",
+      "image": "/src/article/article-3.png",
+      "link": "https://medium.com/p/f2a8e0df236b"
+    },
+    {
+      "title": "Simulation of QPSK Modulation with LZW Compression and Simple Encryption",
+      "description": "A simple and interesting story, but that wasn’t the point (•–•;). Here, we are going to explore how ciphertext and QPSK modulation are simulated mathematically using coding. I’m using Python to code this (▀̿ ̿ᵕ̿ ̿▀). So, why did I create that story earlier? Well, that story will be the subject we simulate with our coding (ง ˙ω˙)ว.",
+      "image": "/src/article/article-2.png",
+      "link": "https://medium.com/p/3183f956eb7c"
+    },
+    {
+      "title": "Frequency Filter Design with LPF Filter and Bilinear Transformation Method",
+      "description": "In recent weeks, I have been studying filters in my university courses, and this has really caught my attention. In telecommunications, filters are generally divided into two categories: analog filters and digital filters.",
+      "image": "/src/article/article-1.png",
+      "link": "https://medium.com/p/6906bdd08e9d"
+    }
+  ],
+  "id": [
+    {
+      "title": "Menyiarkan Pesan ke Bot Telegram Menggunakan ESP32 dan EEPROM",
+      "description": "Di era IoT (Internet of Things) yang terus berkembang, teknologi mikroprosesor seperti ESP32 menjadi semakin populer karena kemampuannya yang multifungsi. Salah satu aplikasi yang menarik adalah menghubungkan ESP32 dengan bot Telegram untuk mengirim pesan siaran. Hal ini memungkinkan perangkat IoT Anda untuk memberikan notifikasi real-time ke Telegram, baik untuk pemantauan sensor, alarm, atau sekadar berbagi informasi.",
+      "image": "/src/article/article-7.png",
+      "link": "https://medium.com/@mmumuhammadrefal44/broadcasting-messages-to-a-telegram-bot-using-esp32-and-eeprom-b2732ec507d8"
+    },
+    {
+      "title": "Panduan Desain Inset Feed pada Antena Mikrostrip Persegi Panjang Menggunakan Python dan CST Studio Suite",
+      "description": "Dalam desain antena mikrostrip, ketidaksesuaian impedansi sering terjadi meskipun dimensi antena yang dihitung tampak benar. Hal ini menyebabkan koefisien refleksi tidak sesuai dengan parameter desain awal. Masalah ini dapat diatasi dengan menyesuaikan feeder untuk mencapai pencocokan impedansi yang optimal",
+      "image": "/src/article/article-6.png",
+      "link": "https://medium.com/p/8a997850d1c7"
+    },
+    {
+      "title": "Implementasi Algoritma MBR pada Data KML untuk Menentukan Area Minimum dalam Pemetaan Drone",
+      "description": "Tantangan pemrograman ini berkaitan dengan pemetaan. Pemetaan area menggunakan drone melibatkan jalur penerbangan yang lurus, lalu berbelok, dan kembali lurus, menyerupai pola zig-zag. Seperti yang kita tahu, drone memiliki waktu terbang terbatas karena keterbatasan baterai. Oleh karena itu, untuk memetakan area yang luas, kita perlu menemukan cara yang paling efisien untuk mengoptimalkan jalur pemetaan drone.",
+      "image": "/src/article/article-5.png",
+      "link": "https://medium.com/@mmumuhammadrefal44/codingchallenge3-implementing-the-mbr-algorithm-on-kml-data-to-determine-the-minimum-area-for-55c2070be557"
+    },
+    {
+      "title": "Unduh Musik dari YouTube Secara Massal dengan Bash Scripting di WSL: Tutorial Singkat",
+      "description": "Di era modern ini, banyak orang mendengarkan musik melalui platform streaming, mengingat koneksi internet kini tersedia hampir di mana saja. Namun, beberapa orang masih lebih memilih mengunduh musik dari YouTube untuk pengalaman yang lebih baik, karena menghilangkan jeda dan menghemat kuota saat tidak ada koneksi Wi-Fi.",
+      "image": "/src/article/article-4.png",
+      "link": "https://medium.com/p/f2ee13b1792b"
+    },
+    {
+      "title": "Cara Menggunakan Lidar Lite V3 di ESP32: Tutorial Singkat",
+      "description": "Baru-baru ini saya mengerjakan proyek menggunakan sensor Lidar dengan ESP32. Kami mencari pustaka untuk sensor ini tetapi tidak menemukannya. Kemudian, kami melakukan pencarian lebih lanjut di internet dan menemukan sebuah isu terkait di GitHub. Kredit untuk isu di GitHub:",
+      "image": "/src/article/article-3.png",
+      "link": "https://medium.com/p/f2a8e0df236b"
+    },
+    {
+      "title": "Simulasi Modulasi QPSK dengan Kompresi LZW dan Enkripsi Sederhana",
+      "description": "Sebuah cerita sederhana dan menarik, tetapi itu bukan intinya (•–•;). Di sini, kita akan mengeksplorasi bagaimana ciphertext dan modulasi QPSK disimulasikan secara matematis menggunakan pemrograman. Saya menggunakan Python untuk membuat kodenya (▀̿ ̿ᵕ̿ ̿▀). Jadi, mengapa saya membuat cerita tadi? Nah, cerita itu akan menjadi subjek yang kita simulasikan dengan coding (ง ˙ω˙)ว.",
+      "image": "/src/article/article-2.png",
+      "link": "https://medium.com/p/3183f956eb7c"
+    },
+    {
+      "title": "Desain Filter Frekuensi dengan Filter LPF dan Metode Transformasi Bilinear",
+      "description": "Dalam beberapa minggu terakhir, saya mempelajari filter dalam mata kuliah di universitas, dan ini benar-benar menarik perhatian saya. Dalam bidang telekomunikasi, filter umumnya dibagi menjadi dua kategori: filter analog dan filter digital.",
+      "image": "/src/article/article-1.png",
+      "link": "https://medium.com/p/6906bdd08e9d"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "en": [
+    {
+      "title": "Ophtalspot",
+      "image": "/src/project-1.png",
+      "description": "Developed an innovative diagnostic instrument for <strong>detecting glaucoma in post-cataract surgery patients</strong>, leveraging ensemble learning techniques and Internet of Things (IoT) technology. The system integrates multiple machine learning models to enhance diagnostic accuracy, providing real-time data analysis and remote monitoring capabilities, ultimately aiming to improve patient outcomes through early detection and intervention.",
+      "doc": ""
+    },
+    {
+      "title": "D'Kortisol",
+      "image": "/src/project-2.png",
+      "description": "A stress detection tool utilizing saliva analysis, designed to accurately measure stress levels. I contributed to UI/UX design, branding (Instagram feed, logo), and Android app development.",
+      "doc": ""
+    },
+    {
+      "title": "Early Warning System for Flash Floods",
+      "image": "/src/project-3.jpg",
+      "description": "Developed a flood early warning system using sensors like LiDAR to detect water levels and PIR for security. The device is powered by an ESP32 microcontroller and Wi-Fi modem, ensuring functionality in remote areas without traditional network coverage.",
+      "doc": ""
+    },
+    {
+      "title": "PV Public Light Path Design and Demo",
+      "image": "/src/project-4.jpg",
+      "description": "A thematic KKN project to design and implement a solar-powered street lighting system (PJU PLTS), including demonstrations, schematic design, structural planning, path planning, and cost estimation for the Koto Gadang area.",
+      "doc": ""
+    },
+    {
+      "title": "Modeling Drone Trajectory Using MBR",
+      "image": "/src/project-5.png",
+      "description": "A PKM-RE based project utilizing the Minimum Bounding Rectangle (MBR) algorithm to determine the optimal rectangular mapping area for drone mapping. I developed a Python-based application to process the MBR algorithm and implement it in KML files for Google Earth.",
+      "doc": "https://medium.com/@mmumuhammadrefal44/codingchallenge3-implementing-the-mbr-algorithm-on-kml-data-to-determine-the-minimum-area-for-55c2070be557"
+    },
+    {
+      "title": "Terrarium Control and Monitoring System",
+      "image": "/src/project-6.png",
+      "description": "Automated terrarium monitoring system using five sensors (gas, soil moisture, touch, LDR, DHT11) and controlling a servo motor, Mist Maker, and LCD. Ensures optimal conditions by adjusting humidity, ventilation, and displaying real-time data.",
+      "doc": ""
+    }
+  ],
+  "id": [
+    {
+      "title": "Ophtalspot",
+      "image": "/src/project-1.png",
+      "description": "Mengembangkan alat diagnostik inovatif untuk <strong>mendeteksi glaukoma pada pasien pasca-operasi katarak</strong> dengan memanfaatkan teknik pembelajaran ensemble dan teknologi Internet of Things (IoT). Sistem ini mengintegrasikan berbagai model machine learning untuk meningkatkan akurasi diagnosis, menyediakan analisis data secara real-time, serta pemantauan jarak jauh, yang bertujuan untuk meningkatkan hasil perawatan pasien melalui deteksi dini dan intervensi.",
+      "doc": ""
+    },
+    {
+      "title": "D'Kortisol",
+      "image": "/src/project-2.png",
+      "description": "Alat deteksi stres melalui analisis air liur yang dirancang untuk mengukur tingkat stres secara akurat. Saya berkontribusi dalam desain UI/UX, branding (feed Instagram, logo), serta pengembangan aplikasi Android.",
+      "doc": ""
+    },
+    {
+      "title": "Sistem Peringatan Dini Banjir Bandang",
+      "image": "/src/project-3.jpg",
+      "description": "Mengembangkan sistem peringatan dini banjir dengan sensor seperti LiDAR untuk mendeteksi ketinggian air dan PIR untuk keamanan tambahan. Perangkat ini menggunakan mikrokontroler ESP32 dan modem Wi-Fi, sehingga dapat berfungsi di daerah terpencil yang tidak memiliki jaringan internet konvensional.",
+      "doc": ""
+    },
+    {
+      "title": "Perancangan dan Demo Jalur PJU PLTS",
+      "image": "/src/project-4.jpg",
+      "description": "Proyek KKN Tematik untuk merancang dan mengimplementasikan sistem penerangan jalan umum tenaga surya (PJU PLTS), meliputi demonstrasi cara kerja PLTS, desain skematik, perencanaan struktural, perencanaan jalur, serta penyusunan Rencana Anggaran Biaya (RAB) untuk wilayah Koto Gadang.",
+      "doc": ""
+    },
+    {
+      "title": "Pemodelan Jalur Drone Menggunakan MBR",
+      "image": "/src/project-5.png",
+      "description": "Proyek berbasis PKM-RE yang menggunakan algoritma Minimum Bounding Rectangle (MBR) untuk menentukan area persegi panjang optimal dalam pemetaan menggunakan drone. Saya mengembangkan aplikasi berbasis Python untuk memproses algoritma MBR dan mengimplementasikannya dalam file KML yang digunakan di Google Earth.",
+      "doc": "https://medium.com/@mmumuhammadrefal44/codingchallenge3-implementing-the-mbr-algorithm-on-kml-data-to-determine-the-minimum-area-for-55c2070be557"
+    },
+    {
+      "title": "Sistem Kontrol dan Monitoring Terrarium",
+      "image": "/src/project-6.png",
+      "description": "Sistem otomatisasi pemantauan terrarium menggunakan lima sensor (gas, kelembaban tanah, sentuhan, LDR, DHT11) serta mengontrol motor servo, Mist Maker, dan LCD. Sistem ini memastikan kondisi optimal dengan menyesuaikan kelembaban, ventilasi, serta menampilkan data secara real-time.",
+      "doc": ""
+    }
+  ]
+}
